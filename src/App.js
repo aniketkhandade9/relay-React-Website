@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Button74 from "./component/Button74";
+// import Button74 from "./component/Button74";
 import "./Button74.css"
 function App() {
   const [status, setStatus] = useState("UNKNOWN");
